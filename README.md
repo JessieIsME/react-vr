@@ -9,7 +9,8 @@ We've designed the React VR developer experience to get your first project up an
 - Node.js version 6.0.0 or higher
 - `yarn` or `npm` (>= v3.0.0) package managers
 
-* Installing Node.js *
+
+**Installing Node.js**
 
 If you already have`Node.js` installed, make sure it is at least version 4.0.
 
