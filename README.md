@@ -10,7 +10,7 @@ We've designed the React VR developer experience to get your first project up an
 - `yarn` or `npm` (>= v3.0.0) package managers
 
 
-**Installing Node.js**
+### step 1:Installing Node.js
 
 If you already have`Node.js` installed, make sure it is at least version 4.0.
 
@@ -21,7 +21,7 @@ If you already have`Node.js` installed, make sure it is at least version 4.0.
 * Linux:* Go to the [`nodejs.org` package manager page](https://nodejs.org/en/download/package-manager/) to find specific instructions for your Linux distribution.
 
 
-Next, install the React VR CLI – a command-line tool that generates the basic layout of new projects.
+### step 2: install the React VR CLI – a command-line tool that generates the basic layout of new projects.
 
 ```
 npm install -g react-vr-cli
