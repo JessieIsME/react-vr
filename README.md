@@ -13,9 +13,9 @@ We've designed the React VR developer experience to get your first project up an
 
 If you already have`Node.js` installed, make sure it is at least version 4.0.
 
-* Mac:* On Mac, we recommend installing `Node.js` through [Homebrew] (https://brew.sh/).
+* Mac:* On Mac, we recommend installing `Node.js` through [Homebrew](https://brew.sh/).
 
-* Windows:* Get the Windows installer from the [nodejs.org download page.](https://nodejs.org/en/download/)
+* Windows:* Get the Windows installer from the [`nodejs.org` download page.](https://nodejs.org/en/download/)
 
 * Linux:* Go to the [`nodejs.org` package manager page](https://nodejs.org/en/download/package-manager/) to find specific instructions for your Linux distribution.
 
