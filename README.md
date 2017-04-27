@@ -63,7 +63,7 @@ or
 yarn start
 ```
 
-When the server has booted, you can access your application by navigating to `http://localhost:8081/vr/` in your web browser. Your application's code can be found in `index.vr.js`, and you can learn more about available framework features by diving into our documentation.
+When the server has booted, you can access your application by navigating to [`http://localhost:8081/vr/`](http://localhost:8081/vr/) in your web browser. Your application's code can be found in `index.vr.js`, and you can learn more about available framework features by diving into our documentation.
 
 
 ## Will My Web Browser Support My VR Headset?
