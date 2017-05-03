@@ -9,7 +9,20 @@ We've designed the React VR developer experience to get your first project up an
 - Node.js version 6.0.0 or higher
 - `yarn` or `npm` (>= v3.0.0) package managers
 
-Next, install the React VR CLI – a command-line tool that generates the basic layout of new projects.
+### step 1:Installing Node.js
+
+If you already have`Node.js` installed, make sure it is at least version 4.0.
+
+* Mac:* On Mac, we recommend installing `Node.js` through [Homebrew](https://brew.sh/).
+
+* Windows:* Get the Windows installer from the [`nodejs.org` download page.](https://nodejs.org/en/download/)
+
+* Linux:* Go to the [`nodejs.org` package manager page](https://nodejs.org/en/download/package-manager/) to find specific instructions for your Linux distribution.
+
+
+### step 2: install the React VR CLI – a command-line tool that generates the basic layout of new projects.
+
+1. Install the React VR CLI tool. Enter:
 
 ```
 npm install -g react-vr-cli
@@ -23,13 +36,32 @@ yarn global add react-vr-cli
 
 You'll only need to install this CLI once. It will alert you when it's out of date, and provide instruction on how to update it.
 
-Once installed, the CLI can be used to create a new project by running
+
+2. Once installed, the CLI can be used to create a new project by running
 
 ```
 react-vr init PROJECT_NAME
 ```
 
-where `PROJECT_NAME` is the name of your new application. Once it's been created and the dependencies are installed, change your working directory to `PROJECT_NAME`, and start the application server by running `npm start` (or `yarn start`).
+where `PROJECT_NAME` is the name of your new application. 
+
+3. Once it's been created and the dependencies are installed, change your working directory to `PROJECT_NAME`.
+
+```
+cd PROJECT_NAME
+```
+
+4. start the application server .
+
+```
+npm start
+```
+
+or
+
+```
+yarn start
+```
 
 When the server has booted, you can access your application by navigating to `http://localhost:8081/vr/` in your web browser. Your application's code can be found in `index.vr.js`, and you can learn more about available framework features by diving into our documentation.
 
